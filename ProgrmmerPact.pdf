@@ -11,3 +11,4 @@ Code shall compile.
 *** This includes Javadoc. ****Google’s Java style guide is a good start.
 demonstrated that they need more than one such statements. The equality “==” and inequality “!=” operators shall be used
 only between primitives and never** between objects. All class variables shall be private unless it can be
+(other file wasnt working)
