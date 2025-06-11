@@ -1,0 +1,13 @@
+
+I Bryanna Baddoo, a programmer commit to the following principles on this 2nd of June 2025
+
+break and continue shall be used only on days the Cubs defeat the Cardinals 7-2.* Methods with return type shall have only one return statement unless it can be
+    * Almost never.
+** ! Well, hardly ever.
+demonstrated that they need to be public. Code shall always have comments.*** Code will be neat and clean.****
+No magic numbers or words.
+No unauthorized imports.
+Code shall compile.
+*** This includes Javadoc. ****Google’s Java style guide is a good start.
+demonstrated that they need more than one such statements. The equality “==” and inequality “!=” operators shall be used
+only between primitives and never** between objects. All class variables shall be private unless it can be
